@@ -1,0 +1,1 @@
+import{d as _,h as o,o as s,p as t,f as c,g as a}from"./index-4883542a.js";import{_ as n}from"./_plugin-vue_export-helper-c27b6911.js";const p=e=>(t("data-v-24e6482e"),e=e(),c(),e),d=p(()=>a("h1",null,"财务专区",-1)),r=[d],i=_({__name:"finance",setup(e){return(l,f)=>(s(),o("div",null,r))}});const h=n(i,[["__scopeId","data-v-24e6482e"]]);export{h as default};

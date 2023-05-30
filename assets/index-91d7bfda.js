@@ -1,0 +1,1 @@
+import{d as e,h as t,o,p as _,f as c,g as a}from"./index-4883542a.js";import{_ as p}from"./_plugin-vue_export-helper-c27b6911.js";const n=s=>(_("data-v-928c657f"),s=s(),c(),s),d=n(()=>a("h1",null,"Opasst",-1)),r=[d],f=e({__name:"opasst",setup(s){return(l,i)=>(o(),t("div",null,r))}});const h=p(f,[["__scopeId","data-v-928c657f"]]);export{h as default};
