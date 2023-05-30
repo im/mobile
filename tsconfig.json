@@ -17,10 +17,13 @@
         "noEmit": true,
         "baseUrl": ".",
         "paths": {
-           
+            "@/*": [
+                "src/*"
+            ]
         },
         "typeRoots": [
-            "node_modules/@types"
+            "node_modules/@types",
+            "typings"
         ]
     },
     "include": [

@@ -1,7 +1,5 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-const active = ref('home')
-const active1 = ref(1)
 </script>
 
 <template>
